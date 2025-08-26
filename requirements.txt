@@ -1,0 +1,26 @@
+# Visualisation de données
+matplotlib>=3.7
+
+# Traitement d'images
+Pillow>=10.0
+
+# Graphes et réseaux
+networkx>=3.1
+
+# Manipulation de données
+numpy>=1.27
+pandas>=2.1
+
+# Pour les animations et notebooks interactifs
+ipywidgets>=8.2
+jupyter>=1.0
+jupyterlab>=4.2
+
+# Optionnel : pour des graphiques interactifs
+plotly>=6.0
+
+# Optionnel : pour créer des environnements interactifs ou simulations simples
+scipy>=1.12
+
+# Optionnel : pour générer des images ou figures plus complexes
+seaborn>=0.12
