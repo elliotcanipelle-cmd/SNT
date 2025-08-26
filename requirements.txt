@@ -12,7 +12,7 @@ numpy>=1.27
 pandas>=2.1
 
 # Pour les animations et notebooks interactifs
-ipywidgets>=8.2
+ipywidgets>=7.7.0
 jupyter>=1.0
 jupyterlab>=4.2
 
